@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'GURAKHAR';
+    font-family:GurbaniAkhar;
     src: url('fonts/GURAKHAR.eot');
     src: url('fonts/GURAKHAR.eot') format('embedded-opentype'),
          url('fonts/GURAKHAR.woff2') format('woff2'),
@@ -8,7 +8,7 @@
          url('fonts/GURAKHAR.svg#GURAKHAR') format('svg');
 }
 @font-face {
-    font-family: 'GURAKH_H';
+    font-family:GurbaniAkharHeavy;
     src: url('fonts/GURAKH_H.eot');
     src: url('fonts/GURAKH_H.eot') format('embedded-opentype'),
          url('fonts/GURAKH_H.woff2') format('woff2'),
@@ -17,7 +17,7 @@
          url('fonts/GURAKH_H.svg#GURAKH_H') format('svg');
 }
 @font-face {
-    font-family: 'GUAK_TH';
+    font-family:GurbaniAkharThick;
     src: url('fonts/GUAK_TH.eot');
     src: url('fonts/GUAK_TH.eot') format('embedded-opentype'),
          url('fonts/GUAK_TH.woff2') format('woff2'),
