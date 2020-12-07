@@ -1,1 +1,1 @@
-# capitalsikhcenter.github.io/BaniSriGuruTegBahadurSahibJi
+# capitalsikhcenter-github.io/
