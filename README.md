@@ -1,1 +1,1 @@
-# capitalsikhcenter-github.io/
+# capitalsikhcenter.github.io/
