@@ -1,27 +1,27 @@
 @font-face {
     font-family:GurbaniAkhar;
-    src: url('fonts/GURAKHAR.eot');
-    src: url('fonts/GURAKHAR.eot') format('embedded-opentype'),
-         url('fonts/GURAKHAR.woff2') format('woff2'),
-         url('fonts/GURAKHAR.woff') format('woff'),
-         url('fonts/GURAKHAR.ttf') format('truetype'),
-         url('fonts/GURAKHAR.svg#GURAKHAR') format('svg');
+    src: url('../../fonts/GURAKHAR.eot');
+    src: url('../../fonts/GURAKHAR.eot') format('embedded-opentype'),
+         url('../../fonts/GURAKHAR.woff2') format('woff2'),
+         url('../../fonts/GURAKHAR.woff') format('woff'),
+         url('../../fonts/GURAKHAR.ttf') format('truetype'),
+         url('../../fonts/GURAKHAR.svg#GURAKHAR') format('svg');
 }
 @font-face {
     font-family:GurbaniAkharHeavy;
-    src: url('fonts/GURAKH_H.eot');
-    src: url('fonts/GURAKH_H.eot') format('embedded-opentype'),
-         url('fonts/GURAKH_H.woff2') format('woff2'),
-         url('fonts/GURAKH_H.woff') format('woff'),
-         url('fonts/GURAKH_H.ttf') format('truetype'),
-         url('fonts/GURAKH_H.svg#GURAKH_H') format('svg');
+    src: url('../../fonts/GURAKH_H.eot');
+    src: url('../../fonts/GURAKH_H.eot') format('embedded-opentype'),
+         url('../../fonts/GURAKH_H.woff2') format('woff2'),
+         url('../../fonts/GURAKH_H.woff') format('woff'),
+         url('../../fonts/GURAKH_H.ttf') format('truetype'),
+         url('../../fonts/GURAKH_H.svg#GURAKH_H') format('svg');
 }
 @font-face {
     font-family:GurbaniAkharThick;
-    src: url('fonts/GUAK_TH.eot');
-    src: url('fonts/GUAK_TH.eot') format('embedded-opentype'),
-         url('fonts/GUAK_TH.woff2') format('woff2'),
-         url('fonts/GUAK_TH.woff') format('woff'),
-         url('fonts/GUAK_TH.ttf') format('truetype'),
-         url('fonts/GUAK_TH.svg#GUAK_TH') format('svg');
+    src: url('../../fonts/GUAK_TH.eot');
+    src: url('../../fonts/GUAK_TH.eot') format('embedded-opentype'),
+         url('../../fonts/GUAK_TH.woff2') format('woff2'),
+         url('../../fonts/GUAK_TH.woff') format('woff'),
+         url('../../fonts/GUAK_TH.ttf') format('truetype'),
+         url('../../fonts/GUAK_TH.svg#GUAK_TH') format('svg');
 }
